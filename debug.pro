@@ -1,4 +1,4 @@
-update=Sunday, October 30, 2016 'PMt' 08:28:14 PM
+update=Monday, November 14, 2016 'PMt' 11:44:58 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -68,3 +68,6 @@ LibName36=ntsx2102gu8h
 LibName37=mx25r1635f
 LibName38=ferrite
 LibName39=NLSX4373DR2G
+LibName40=fxma108bqx
+LibName41=pam2301
+LibName42=stf202-22
